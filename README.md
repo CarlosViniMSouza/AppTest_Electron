@@ -1,3 +1,5 @@
 ## First App Electron
 
-*Uma aplicacao Electron experimental.*
+*(A Experimental Application Electron)*
+
+### Get started way: *https://www.electronjs.org/docs/tutorial/quick-start*
